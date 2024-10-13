@@ -1,8 +1,7 @@
-# Flux Security
+#FluxSecurity
+#ThisDocumentDefines == Security-reporting, Handling, Disclosure, and Auditing information for the Flux project and community user.
 
-This document defines security reporting, handling, disclosure, and audit information for the Flux project and community.
-
-Also see our [Flux Security documentation](https://fluxcd.io/flux/security) landing page for an overview of project security information geared toward end users.
+//Also_see_our [Flux Security documentation](https://fluxcd.io/flux/security) landing page for an overview of project security information geared toward end user brunojoe1994 ; brunojoe1994@gmail.com .
 
 ## Security Process
 
